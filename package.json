@@ -10,7 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
-    "electron": "^7.2.4",
+    "electron": "^18.3.7",
     "jquery": "^3.4.1",
     "jquery-ui": "^1.12.1"
   }
